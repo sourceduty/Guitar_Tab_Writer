@@ -1,4 +1,4 @@
-![Guitar Tab Writer](https://github.com/user-attachments/assets/e1520531-f3cf-488f-8feb-617f1a539ddd)
+![Rockers](https://github.com/user-attachments/assets/bb64f691-38ef-49c5-9699-651a337026fa)
 
 > Assistive guitar tablature creator.
 #
@@ -17,6 +17,9 @@ E|-------------------------|
 ```
 
 Additionally, Guitar Tab Writer could provide simplified versions of songs or explain alternate tunings if needed. By tailoring tabs to your skill level and requests, it makes learning the guitar fun, accessible, and stress-free.
+
+#
+![Guitar Tab Writer](https://github.com/user-attachments/assets/e1520531-f3cf-488f-8feb-617f1a539ddd)
 
 #
 ### Related Links
